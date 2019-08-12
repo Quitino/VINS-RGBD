@@ -1,6 +1,8 @@
 ## RGBD-Inertial Trajectory Estimation and Mapping for Small Ground Rescue Robot
 Based one open source SLAM framework [VINS-Mono](https://github.com/HKUST-Aerial-Robotics/VINS-Mono).
 
+
+ change
 The approach contains
 + Depth-integrated visual-inertial initialization process.
 + Visual-inertial odometry by utilizing depth information while avoiding the limitation is working for 3D pose estimation.
